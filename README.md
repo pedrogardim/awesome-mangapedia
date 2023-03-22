@@ -1,29 +1,10 @@
-# awesome-mangapedia
+# Awesome Mangapedia
 
-## Project setup
+### About
 
-```
-yarn install
-```
+This is a visualizer webpage for the Kitsu API based on Vue.
 
-### Compiles and hot-reloads for development
+### Roadmap
 
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-
-```
-yarn build
-```
-
-### Lints and fixes files
-
-```
-yarn lint
-```
-
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Add debouncing on search
+- More info, such as characters
